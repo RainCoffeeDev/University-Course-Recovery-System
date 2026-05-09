@@ -1,0 +1,55 @@
+Recovery PlanID,StudentID,CourseID,,,,,
+RPNK,ST02,NWK1,,,,,
+RPBA,ST03,BSLA,,,,,
+RPED,ST05,ED12,,,,,
+RPBK,ST06,BMK1,,,,,
+RPPP,ST08,PYP1,,,,,
+RPFM,ST09,FLMC,,,,,                                                     
+RPIR,ST10,ITIR,,,,,
+RPIL,ST10,ITPL,,,,,
+RPAE,ST10,ASRE,,,,,
+RPBK,ST10,BMK1,,,,,
+RPMG,ST12,MKG1,,,,,
+RPCB,ST13,CYB1,,,,,
+RPCG,ST14,CPG1,,,,,
+RPSP,ST15,SPP1,,,,,
+RPBC,ST17,BSEC,,,,,
+RPDS,ST18,DBS1,,,,,
+RPNK,ST18,NWK1,,,,,
+RPJV,ST18,JVA1,,,,,
+RPSD,ST18,SAAD,,,,,
+RPAE,ST19,ASRE,,,,,
+RPBK,ST20,BMK1,,,,,
+RPBC,ST22,BSEC,,,,,
+RPMG,ST22,MKG1,,,,,
+RPAS,ST22,ACSK,,,,,
+RPBK,ST22,BMK1,,,,,
+RPJV,ST23,JVA1,,,,,
+RPFM,ST24,FLMC,,,,,
+RPBK,ST25,BMK1,,,,,
+RPBC,ST27,BSEC,,,,,
+RPJV,ST28,JVA1,,,,,
+RPCG,ST29,CPG1,,,,,
+RPSM,ST31,SDM1,,,,,
+RPPP,ST31,PYP1,,,,,
+RPWP,ST31,WAP1,,,,,
+RPBK,ST31,BMK1,,,,,
+RPDS,ST33,DBS1,,,,,
+RPEM,ST34,EM12,,,,,
+RPCG,ST34,CPG1,,,,,
+RPFM,ST34,FLMC,,,,,
+RPBK,ST34,BMK1,,,,,ST10,ITPL,Active,Week 1,Review Failed Component
+ST10,ITPL,Active,Week 1,Review Failed Component
+ST08,PYP1,Active,Week 1,Review Failed Component
+ST10,ITIR,Active,Week 1,Review Failed Component
+ST12,MKG1,Completed,Week 1,Review Failed Component
+ST15,SPP1,Active,Week 1,Review Failed Component
+ST02,NWK1,Active,Week 1,Review Failed Component
+ST02,NWK1,Active,Week 2,Meet lecturer
+ST31,SDM1,Active,Week 1,Review Failed Component
+ST02,NWK1,Active,Week 1,Review Failed Component
+ST03,BSLA,Active,week 2,take resit
+ST34,BMK1,Active,Week 1,Review Failed Component
+ST10,ASRE,Active,Week 1,Review Failed Component
+ST34,FLMC,Active,Week 1,Review Failed Component
+ST18,DBS1,Active,Week 1,Review Failed Component
